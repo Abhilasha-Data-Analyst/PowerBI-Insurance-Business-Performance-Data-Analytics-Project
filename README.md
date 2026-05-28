@@ -1,8 +1,7 @@
 # **🛡️ Shield Insurance Business Performance \& Customer Analytics**
 
 
-
-1. ### **Project Title**
+### **1. Project Title**
 
 Shield Insurance Business Performance \& Customer Analytics
 
