@@ -395,7 +395,6 @@ Shield Insurance operates through multiple policies, cities, customer segments, 
 
 
 
-## 
 
 ### **🔄 9. Business is Gradually Moving Toward Digital Channels**
 
