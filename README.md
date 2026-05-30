@@ -557,15 +557,29 @@ Shield Insurance operates through multiple policies, cities, customer segments, 
 
 ###### 
 
-### **📊 Project Walkthrough Video**- **\[Watch Dashboard Demo](Dashboard/Dashboard.mp4)**
+### **📊 Project Walkthrough Video**-
+https://github.com/user-attachments/assets/519ed777-f7ee-4cd5-a226-7cf3f9410576
 
 
 
-### 📄 \[**Project Presentation]-(Presentation/Project\_Presentation.pdf)**
+
+### 📄 \[**Project Presentation]-[Insurance_Business_Analytics.pdf](https://github.com/user-attachments/files/28419611/Insurance_Business_Analytics.pdf)**
+
 
 ### 
 
 ### **🖼️ Presentation Preview-**
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/790699ab-424f-4a96-ad97-20464a4547e5" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/95f1d014-34eb-4425-a306-f633af7f72e2" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/bdddff97-0f57-4546-91fa-09c794eca38c" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/e2d4f515-fc0e-4652-a460-e73afebe8ac1" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a5c8d3b5-1fd2-4410-9175-0438d239d1f0" />
+
 
 
 
